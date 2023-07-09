@@ -8,7 +8,8 @@
 
 ## | My Github Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jolliebonnie&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+|<img src="https://github-readme-stats.vercel.app/api?username=jolliebonnie&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jolliebonnie"/>|
+|---|---|
 
 ## | Let's connect 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jolliebonnie)
