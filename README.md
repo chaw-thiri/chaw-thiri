@@ -1,16 +1,20 @@
-### Hi there 👋
 
 <!--
-**jolliebonnie/jolliebonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://socialify.git.ci/jolliebonnie/jolliebonnie/image?font=KoHo&forks=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto" alt="jolliebonnie" width="640" height="320" />
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Chaw%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+</p>
+
+
+## | My Github Stats
+
+ </a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jolliebonnie&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## | Let's connect 
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jolliebonnie)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaw-thiri-san-379035227/)
+## | Teck Stack
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=bash,git,py,c,cpp,github,visualstudio,vscode"/>
+</p>
