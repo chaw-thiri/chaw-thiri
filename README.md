@@ -12,5 +12,5 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaw-thiri-san-379035227/)
 ## | Tech Stack
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=bash,git,py,c,cpp,github,visualstudio,vscode,html,css,javascript"/>
+   <img src="https://skillicons.dev/icons?i=bash,git,py,c,cpp,github,visualstudio,vscode,html,css,javascript,sqlite"/>
 </p>
