@@ -5,7 +5,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Chaw%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
+---
 
+## | 📄 Resume
+
+You can view or download my resume here:
+
+**👉 [View My Resume](https://github.com/chaw-thiri/chaw-thiri/blob/main/resume%20v6.pdf)**
+
+---
 
 ## | Let's connect 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaw-thiri)
