@@ -7,13 +7,6 @@
 </p>
 ---
 
-## | 📄 Resume
-
-You can view or download my resume here:
-
-**👉 [View My Resume](https://github.com/chaw-thiri/chaw-thiri/blob/main/resume%20v6.pdf)**
-
----
 
 ## | Let's connect 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaw-thiri)
