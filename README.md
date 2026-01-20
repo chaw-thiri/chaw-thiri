@@ -8,12 +8,11 @@
 ---
 
 
-## | Let's connect 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaw-thiri)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaw-thiri-san-379035227/)
-[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=white)]((https://orcid.org/0009-0004-4680-8483))
+## | Let's connect  
 
-## | Tech Stack
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=bash,git,py,c,cpp,github,tensorflow,gcp,matlab,opencv,javascript,sqlite,mongodb,sklearn"/>
-</p>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaw-thiri.github.io/portfolio/)   
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaw-thiri-san-379035227/)  
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4680-8483)  
+
+
+
