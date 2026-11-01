@@ -7,12 +7,3 @@
 </p>
 ---
 
-
-## | Let's connect  
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaw-thiri.github.io/portfolio/)   
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaw-thiri-san-379035227/)  
-[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4680-8483)  
-
-
-
